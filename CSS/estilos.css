@@ -1,0 +1,24 @@
+*
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #d94a4a;
+}
+.menu a :hover{
+    color: #713131;
+}
+.navbar a {
+    color: white;
+    padding: 24px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.kj{
+    display: flex;
+    justify-content: center;
+}
